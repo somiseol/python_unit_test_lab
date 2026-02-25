@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="adde8c6a-fb90-4508-8632-265beb631996" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/cart_discount/price_discount.py" beforeDir="false" afterPath="$PROJECT_DIR$/cart_discount/price_discount.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart_discount/test_discount.py" beforeDir="false" afterPath="$PROJECT_DIR$/cart_discount/test_discount.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3AB2oaFHF9nVikbiBF4RrLe2RUh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/songbird/Projects/project-2-reading-list-spring-2026-team-abiir-somi"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="adde8c6a-fb90-4508-8632-265beb631996" name="Changes" comment="" />
+      <created>1772051819416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772051819416</updated>
+    </task>
+    <servers />
+  </component>
+</project>
